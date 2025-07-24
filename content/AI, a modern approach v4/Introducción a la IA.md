@@ -1,6 +1,7 @@
 ---
-aliases:
+title: Introducción a la IA
 ---
+
 ## Ideas
 
 - El campo de la inteligencia artificial, se encarga no solamente de entender entidades inteligentes, sino de construirlas.
@@ -65,6 +66,51 @@ Es otro de los enfoques que se tienen para tratar de entender el pensamiento hum
 
 ---
 ## Resumen
+
+### Evolución de la IA
+
+Este diagrama representa una breve descripción de la evolución de la IA a través del tiempo como ciencia:
+
+```mermaid
+timeline
+	title Evolución de la IA
+	Hace 2000 años: Aristóteles buscaba las leyes del pensamiento humano
+
+	: Así nace la LÓGICA
+
+	1950: Alan Turing define el "Test de Turing" para definir las capacidades mínimas que debería tener una máquina para considerarse inteligente
+
+	1950-2000: Se desarrollan notaciones para describir de forma lógica los objetos y sus relaciones en el mundo
+
+	2000-Actualidad: Desarrollo de ML, crecimiento de IA
+```
+
+### Mapa conceptual
+
+```mermaid
+
+mindmap
+	root(IA)
+		(Entiende y construye entidades inteligentes)
+			Relevante para cualquier tarea intelectual
+			Interdisciplinar
+		(Relación con otras ciencias)
+			(Ciencia cognitiva)
+				Busca definir una teoría de la mente
+			(Psicología)
+				Análisis de la mente y el comportamiento humano
+			(Lógica)
+				Leyes del pensamiento y silogismos
+		(Agente racional)
+			(Es capaz de)
+				Percibir su entorno y adaptarse al cambio
+				Tomar decisiones de forma autónoma
+				Persistir a través del tiempo
+				Crear y perseguir objetivos
+			(Tiene un objetivo definido y logra el mejor resultado posible)
+			(ML y probabilidad para situaciones de incertidumbre)
+```
+
 
 
 ---
