@@ -1,7 +1,11 @@
 ---
-title: Introducción a la IA
+tags:
+  - ai
+  - aiama4
+  - inteligencia
+  - pensamiento
+  - lectura
 ---
-
 ## Ideas
 
 - El campo de la inteligencia artificial, se encarga no solamente de entender entidades inteligentes, sino de construirlas.
