@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Vortex KB",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,39 +16,39 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "vortexkb.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Manrope",
+        body: "Manrope",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#F4F6FF",        // fondo etéreo ligeramente violeta
+          lightgray: "#FFFFFF",    // superficies principales
+          gray: "#E8EAFF",         // bordes suaves índigo
+          darkgray: "#4B4B6A",     // texto secundario
+          dark: "#1A1A2E",         // texto principal
+          secondary: "#7D59D6",    // violeta identitario
+          tertiary: "#5F4CCF",     // violeta azulado coherente
+          highlight: "rgba(125, 89, 214, 0.10)",
+          textHighlight: "#8A63F288",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#161A36",        // fondo base índigo profundo
+          lightgray: "#24204A",    // superficie elevada (más clara que antes)
+          gray: "#3A2F6B",         // bordes / separadores
+          darkgray: "#B8C2FF",     // texto secundario
+          dark: "#F4F6FF",         // texto principal
+          secondary: "#8A63F2",    // violeta tridente
+          tertiary: "#7A6BFF",     // azul energía
+          highlight: "rgba(108, 62, 184, 0.18)",
+          textHighlight: "#C7A6FF88",
         },
       },
     },
