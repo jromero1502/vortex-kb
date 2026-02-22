@@ -1,5 +1,9 @@
-#asimov #literatura #yorobot 
-
+---
+tags:
+  - asimov
+  - literatura
+  - yorobot
+---
 Este capítulo aborda la sociedad con robots desde otro punto de vista que resulta muy interesante, el político y social. Aquí se narra como dos candidatos se disputan las elecciones de la alcaldía de una ciudad, en una sociedad ya acostumbrada al uso operativo de robots para muchas tareas cotidianas.
 
 Francis Quinn, uno de los candidatos, sumamente audaz, frío, inteligente, maquiavélico. Quien representa la figura inmoral que es capaz de realizar cualquier acción por lograr sus objetivos, plantea a los directivos de la U.S Robots, una narrativa en la que ellos como organización se podrían ver afectados tergiversando las acciones de su competidor político e insinuando públicamente el uso de cerebros positrónicos en robots réplicas de humanos, aprovechándose del daño reputacional que esto podría representar. Amenaza directamente al director con difundir públicamente una noticia de dudosa validez, donde Stephen Byerly, quien es su directo competidor político, es un robot construido por un viejo profesor en silla de ruedas, quien sería el verdadero Byerly, puesto que al haber perdido a su esposa y él salir lastimado de un accidente hace mucho tiempo logró obtener de alguna manera un cerebro positrónico y proyectarse a través de un robot. Por lo tanto, Quinn sugiere a la U.S Robots, con la finalidad de que no se vean afectados por esta noticia, le realicen una prueba a Byerly con la finalidad de asegurar que efectivamente es un robot.

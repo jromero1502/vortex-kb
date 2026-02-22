@@ -5,7 +5,6 @@ tags:
 - filosofia
 - pensamiento
 ---
-
 # Enfoque filosófico
 
 Se puede analizar la historia de la inteligencia artificial, desde un enfoque filosófico donde se han planteado preguntas fundamentales que esta ciencia aborda, tales como, ¿qué es el pensamiento?, ¿qué es el conocimiento?

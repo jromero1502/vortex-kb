@@ -45,8 +45,8 @@ const config: QuartzConfig = {
           gray: "#3A2F6B",         // bordes / separadores
           darkgray: "#B8C2FF",     // texto secundario
           dark: "#F4F6FF",         // texto principal
-          secondary: "#8A63F2",    // violeta tridente
-          tertiary: "#7A6BFF",     // azul energía
+          secondary: "#85c7f0",    // violeta tridente
+          tertiary: "#af56ed",     // azul energía
           highlight: "rgba(108, 62, 184, 0.18)",
           textHighlight: "#C7A6FF88",
         },
