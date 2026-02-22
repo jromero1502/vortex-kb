@@ -24,6 +24,13 @@ PageTitle.css = `
 .page-title > a > img {
   max-width: 170px;
   margin: 0;
+  height: auto;
+}
+
+@media all and (max-width: 800px) {
+  .page-title > a > img {
+    display: none;
+  }
 }
 `
 
