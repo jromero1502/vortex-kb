@@ -1,5 +1,5 @@
 ---
-title: Formatos de representación
+title: "Bits: Unidad fundamental de representación de información"
 tags:
   - binario
   - sistemasoperativos
