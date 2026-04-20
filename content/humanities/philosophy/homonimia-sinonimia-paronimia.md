@@ -32,4 +32,4 @@ Es un nombre que se deriva morfológicamente de otro:
 
 >[!example] Gramática
 > >[!note] Sócrates es gramático
-> > Aquí vemos que **gramático** deriva de **gramática**, por lo tanto gramático opera paronímicamente en esta predicación donde *gramática está en Sócrates*
+> > Aquí vemos que gramático deriva de gramática, por lo tanto gramático opera paronímicamente en esta predicación donde *gramática está en Sócrates*
